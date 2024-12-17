@@ -2,9 +2,6 @@
 
 This repository houses **NewsTalk**, a mobile application designed to transform the way users consume news content through AI-powered synthesis, personalization, and interactive social engagement. Developed as part of the *Design and Implementation of Mobile Applications* course at Politecnico di Milano, NewsTalk delivers concise, tailored news summaries in real time and fosters a collaborative space for users to discuss and explore trending topics.
 
-**Teacher**: Paolo Cremonesi  
-**Final Score**: 30/30 cum laude  
-
 ---
 
 ## 📱 Key Project Features
