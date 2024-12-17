@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA0jVu-TMFl2SGWxCNJ1Blvh1m6jj-WFWA',
+    apiKey: '',
     appId: '1:611264064314:web:e51a797208c72657387e03',
     messagingSenderId: '611264064314',
     projectId: 'dima-7c630',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDF71ibGdimZSbTEg7105HTIb2AE8m-suo',
+    apiKey: '',
     appId: '1:611264064314:android:ed5cc918a399ca83387e03',
     messagingSenderId: '611264064314',
     projectId: 'dima-7c630',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBtWL96Vsk61jRHGXShU80w-D09AGbBGz8',
+    apiKey: '',
     appId: '1:611264064314:ios:051c757da0cd1884387e03',
     messagingSenderId: '611264064314',
     projectId: 'dima-7c630',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBtWL96Vsk61jRHGXShU80w-D09AGbBGz8',
+    apiKey: '',
     appId: '1:611264064314:ios:cfb5b73c00c0b845387e03',
     messagingSenderId: '611264064314',
     projectId: 'dima-7c630',
