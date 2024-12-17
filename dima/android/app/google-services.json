@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611264064314",
+    "project_id": "dima-7c630",
+    "storage_bucket": "dima-7c630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611264064314:android:ed5cc918a399ca83387e03",
+        "android_client_info": {
+          "package_name": "com.example.dima"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF71ibGdimZSbTEg7105HTIb2AE8m-suo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,303 @@
+[
+    {
+        "bio": "Mi madre mi ha dato la vita, il plumberone la voglia di viverla :)",
+        "communityIds": [
+            "1",
+            "18b37133-bf84-4416-9a2e-7494d36becc2"
+        ],
+        "name": "Umberto Colangelo",
+        "email": "umberto@prova.com",
+        "initialized": true,
+        "communityRequests": {
+            "9fb46120-9b78-4799-b060-8c8f8e02cb55": "pending",
+            "18b37133-bf84-4416-9a2e-7494d36becc2": "approved",
+            "bbc1c18b-520e-492f-81a9-dca9de122405": "pending"
+        },
+        "password": "password",
+        "selectedCategories": [
+            "All",
+            "Entertainment",
+            "Sports",
+            "Technology",
+            "Health",
+            "Business",
+            "General"
+        ],
+        "selectedSources": [
+            "gazzetta_sport",
+            "fatto_quotidiano",
+            "della_sera",
+            "il_giornale",
+            "foglio",
+            "sole24",
+            "fanpage",
+            "libero",
+            "sky_tg",
+            "ansa",
+            "micro_bio",
+            "donna_moderna"
+        ],
+        "username": "umberto",
+        "profileImagePath": "assets/images/avatar_5.png",
+        "id": "1",
+        "threadIds": [
+            "1",
+            "3",
+            "3",
+            "3"
+        ]
+    },
+    {
+        "id": "2",
+        "profileImagePath": "",
+        "threadIds": [
+            ""
+        ],
+        "name": "Alessandro Celli",
+        "bio": "",
+        "password": "",
+        "communityIds": [
+            "1"
+        ],
+        "communityRequests": {
+            "1": "pending"
+        },
+        "username": "ilCellone",
+        "email": "cello@prova.com",
+        "selectedCategories": [
+            "All",
+            "Entertainment",
+            "Sports",
+            "Technology",
+            "Health",
+            "Business",
+            "General"
+        ],
+        "selectedSources": [
+            "gazzetta_sport",
+            "fatto_quotidiano",
+            "della_sera",
+            "il_giornale",
+            "foglio",
+            "sole24",
+            "fanpage",
+            "libero",
+            "sky_tg",
+            "ansa",
+            "micro_bio",
+            "donna_moderna"
+        ]
+    },
+    {
+        "name": "Ciao",
+        "initialized": true,
+        "bio": "Se ciaoooo",
+        "profileImagePath": "assets/images/avatar_5.png",
+        "communityRequests": {},
+        "communityIds": [],
+        "threadIds": [],
+        "id": "RnBFSYvwoSdx34zmP13FxIVcGqg1",
+        "password": "",
+        "email": "ciao@ciao.com",
+        "username": "Ciaone",
+        "selectedSources": [
+            "gazzetta_sport",
+            "fatto_quotidiano",
+            "della_sera",
+            "il_giornale",
+            "foglio",
+            "sole24",
+            "fanpage",
+            "libero",
+            "sky_tg",
+            "ansa",
+            "micro_bio",
+            "donna_moderna"
+        ],
+        "selectedCategories": [
+            "All",
+            "Entertainment",
+            "Sports",
+            "Technology",
+            "Health",
+            "Business",
+            "General"
+        ]
+    },
+    {
+        "username": "Cane",
+        "threadIds": [],
+        "name": "cane",
+        "bio": "",
+        "password": "",
+        "communityRequests": {},
+        "email": "cane@cane.it",
+        "communityIds": [],
+        "initialized": true,
+        "profileImagePath": "assets/images/avatar_4.png",
+        "id": "Xf0WGjBy0Cdhjw7li7mHkkSb8SJ2",
+        "selectedCategories": [
+            "All",
+            "Entertainment",
+            "Sports",
+            "Technology",
+            "Health",
+            "Business",
+            "General"
+        ]
+    },
+    {
+        "threadIds": "",
+        "communityRequests": {},
+        "email": "",
+        "selectedSources": [
+            "gazzetta_sport",
+            "fatto_quotidiano",
+            "della_sera",
+            "il_giornale",
+            "foglio",
+            "sole24",
+            "fanpage",
+            "libero",
+            "sky_tg",
+            "ansa",
+            "micro_bio",
+            "donna_moderna"
+        ],
+        "selectedCategories": [
+            "All",
+            "Entertainment",
+            "Sports",
+            "Technology",
+            "Health",
+            "Business",
+            "General"
+        ],
+        "name": "Vittorio",
+        "bio": "Zaza Babilonia",
+        "profileImagePath": "",
+        "id": "e4J4nNHNQuMffTjrFwoGSqB1qCD3",
+        "password": "",
+        "username": "Vitto",
+        "communityIds": [
+            ""
+        ]
+    },
+    {
+        "bio": "Eccomi eccomi sono proprio ioooo",
+        "initialized": true,
+        "communityRequests": {},
+        "communityIds": [
+            "1"
+        ],
+        "selectedSources": [
+            "gazzetta_sport",
+            "fatto_quotidiano",
+            "della_sera",
+            "il_giornale",
+            "foglio",
+            "sole24",
+            "fanpage",
+            "libero",
+            "sky_tg",
+            "ansa",
+            "micro_bio",
+            "donna_moderna"
+        ],
+        "selectedCategories": [
+            "All",
+            "General"
+        ],
+        "profileImagePath": "assets/images/avatar_4.png",
+        "threadIds": [
+            "",
+            "3",
+            "3"
+        ],
+        "name": "Rob",
+        "id": "gqZAvv9t1rc9GLJ2taD6hsn5QDb2",
+        "username": "robcial",
+        "password": "",
+        "email": "robcial136@gmail.com"
+    },
+    {
+        "communityRequests": {
+            "9fb46120-9b78-4799-b060-8c8f8e02cb55": "pending",
+            "1": "approved"
+        },
+        "id": "jtYHDbzxmZV57aJrBp5BWcQOoza2",
+        "name": "vittorio",
+        "password": "",
+        "selectedSources": [
+            "gazzetta_sport",
+            "fatto_quotidiano",
+            "della_sera",
+            "il_giornale",
+            "foglio",
+            "sole24",
+            "fanpage",
+            "libero",
+            "sky_tg",
+            "ansa",
+            "micro_bio",
+            "donna_moderna"
+        ],
+        "selectedCategories": [
+            "General",
+            "Sports",
+            "Entertainment",
+            "Health",
+            "Business",
+            "Technology",
+            "All"
+        ],
+        "initialized": true,
+        "bio": "un ragazzo simpatico",
+        "profileImagePath": "assets/images/avatar_4.png",
+        "username": "vittoPazzo",
+        "communityIds": [],
+        "threadIds": [],
+        "email": "vittorio@icenet.it"
+    },
+    {
+        "id": "pzepDHlE1LMWL6WccUpqdvIAxjA3",
+        "threadIds": [
+            "2",
+            "3"
+        ],
+        "name": "Rob Cial",
+        "communityRequests": {},
+        "email": "test@test.com",
+        "initialized": true,
+        "profileImagePath": "assets/images/avatar_6.png",
+        "selectedSources": [
+            "gazzetta_sport",
+            "fatto_quotidiano",
+            "della_sera",
+            "il_giornale",
+            "foglio",
+            "sole24",
+            "fanpage",
+            "libero",
+            "sky_tg",
+            "ansa",
+            "micro_bio",
+            "donna_moderna"
+        ],
+        "selectedCategories": [
+            "All",
+            "Entertainment",
+            "Sports",
+            "Technology",
+            "Health",
+            "Business",
+            "General"
+        ],
+        "bio": "gang gang gang",
+        "communityIds": [
+            "1"
+        ],
+        "password": "",
+        "username": "theofficialplumber"
+    }
+]
